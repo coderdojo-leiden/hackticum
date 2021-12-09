@@ -1,5 +1,5 @@
 # hackticum
-Op deze pagiga vind je informatie voor het practicum hacken.
+Op deze pagina vind je informatie voor het practicum hacken.
 
-De link naar de Juice shop: [http://juice-shop-coderdojo-leiden.westeurope.azurecontainer.io:3000/](http://juice-shop-coderdojo-leiden.westeurope.azurecontainer.io:3000/)
+De link naar de Juice shop van CoderDojo Leiden: [Juice shop](http://juice-shop-coderdojo-leiden.westeurope.azurecontainer.io:3000/)
 
